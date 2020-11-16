@@ -1,0 +1,16 @@
+{
+  "name": "pointclouds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aframe-pointcloud-component": "^1.0.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
